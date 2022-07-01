@@ -1,0 +1,61 @@
+.h:hover{
+        background-color: rgb(238, 12, 42);
+ }
+.adam {
+    background-color:rgb(121, 113, 113);
+    height:150px;
+    width:300px;
+  float:left;
+ 
+}
+.oscar {
+        background-color:rgb(31, 78, 206);
+        height:150px;
+        width:300px;
+        margin-left:300px;
+        float:left;
+     
+        
+       
+}
+.bell {
+        background-color:rgb(116, 119, 150);
+        height:200px;
+        width:300px;
+        margin-left:300.25px;
+        float:left;
+       
+        
+        
+
+}
+.bella {
+        background-color:rgb(112, 99, 172);
+        height:200px;
+        width:300px;
+       float:right 0;
+       margin-left:0;
+       top:357px;
+       position:absolute;
+       
+      
+
+}
+.fort {
+        background-color:rgb(197, 153, 43);
+        height:200px;
+        width:300px;
+       margin-left:600px;
+       float:left;
+       
+        
+      
+
+}
+h3 {
+        text-align: center;
+        position:relative;
+        top:55px;
+        color:black;
+}
+
